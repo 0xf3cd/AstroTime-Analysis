@@ -1,0 +1,45 @@
+
+
+
+     INTERNATIONAL EARTH ROTATION AND REFERENCE SYSTEMS SERVICE (IERS) 
+
+SERVICE INTERNATIONAL DE LA ROTATION TERRESTRE ET DES SYSTEMES DE REFERENCE
+
+
+SERVICE DE LA ROTATION TERRESTRE
+OBSERVATOIRE DE PARIS
+61, Av. de l'Observatoire 75014 PARIS (France)
+Tel.      : 33 (0) 1 40 51 23 35
+FAX       : 33 (0) 1 40 51 22 91
+Internet  : services.iers@obspm.fr
+
+                                             Paris, 9 January 2017
+                                                           
+
+                                             Bulletin C 53
+                                
+                                             To authorities responsible
+                                             for the measurement and 
+                                             distribution of time             
+                                                                                        
+
+
+                          INFORMATION ON UTC - TAI
+                      
+
+ NO leap second will be introduced at the end of June 2017.
+ The difference between Coordinated Universal Time UTC and the 
+ International Atomic Time TAI is :		
+		
+     from 2017 January 1, 0h UTC, until further notice : UTC-TAI = -37 s
+
+ Leap seconds can be introduced in UTC at the end of the months of December 
+ or June,  depending on the evolution of UT1-TAI. Bulletin C is mailed every  
+ six months, either to announce a time step in UTC, or to confirm that there 
+ will be no time step at the next possible date.
+
+
+                                            Christian BIZOUARD
+                                            Director			
+                                            Earth Orientation Center of IERS
+					    Observatoire de Paris, France

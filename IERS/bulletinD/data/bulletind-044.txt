@@ -1,0 +1,49 @@
+
+
+
+            
+
+		INTERNATIONAL   EARTH   ROTATION   SERVICE   (IERS) 
+	SERVICE   INTERNATIONAL   DE   LA   ROTATION   TERRESTRE
+
+
+BUREAU CENTRAL DE L'IERS
+OBSERVATOIRE DE PARIS 				Paris, 28 february 1994
+61, Av. de l'Observatoire 75014 PARIS (France)
+Tel. (33) 1-40 51 22 26      Telex : 270776 OBS
+ Internet 	: iers@iap.fr                     	Bulletin D 44
+  Span 	        : IAPOBS::IERS
+  FAX     	: (33) 1 - 43 25 55 42
+
+
+                          ANNOUNCEMENT OF DUT1
+
+
+
+     From the 21 April 1994, 0h UTC
+
+
+    Until further notice, the value of DUT1 to be disseminated 
+    with the time signals will be
+
+                         DUT1 = - 0.1 s.
+
+
+    Bulletin D 45 will be issued in May 1994.
+
+
+
+
+                          ANNONCE DE DUT1
+
+
+
+    A partir du 21 avril 1994, 0h UTC
+
+    Jusqu'a nouvel avis, la valeur de DUT1 a diffuser 
+    avec les signaux horaires sera
+									
+                          DUT1 = - 0,1 s
+
+
+    Le Bulletin D 45 sera diffuse en Mai 1994.

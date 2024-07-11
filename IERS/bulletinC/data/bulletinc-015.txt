@@ -1,0 +1,42 @@
+
+
+
+                 INTERNATIONAL EARTH ROTATION SERVICE (IERS) 
+  	       SERVICE INTERNATIONAL DE LA ROTATION TERRESTRE
+
+BUREAU CENTRAL DE L'IERS
+OBSERVATOIRE DE PARIS                                   
+61, Av. de l'Observatoire 75014 PARIS (France)
+Tel.      : 33 (0) 1 40 51 22 26
+FAX       : 33 (0) 1 40 51 22 91
+Internet  : iers@obspm.fr
+
+                                                 Paris, 7 January 1998
+                                                           
+
+                                                 Bulletin C 15
+                                
+                                                 To authorities responsible for                  
+                                                 the measurement and distribution                
+                                                 of time                                         
+
+
+                          INFORMATION ON UTC - TAI
+                      
+
+ No positive leap second will be introduced at the end of June 1998.
+ The difference between UTC and the International Atomic Time TAI is :		
+		
+       from 1998 January 1, 0h UTC, until further notice : UTC-TAI = - 31 s
+
+ Leap seconds can be introduced in UTC at the end of the months of December 
+ or June,  depending on the evolution of UT1-TAI. Bulletin C mailed every six 
+ months, either to announce a time step in UTC, or to confirm that there will
+ be no time step at the next possible date.
+
+
+                                                 Daniel GAMBIS
+                                                 Director			
+                                                 Central Bureau of IERS
+
+

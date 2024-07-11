@@ -1,0 +1,38 @@
+  INTERNATIONAL   EARTH   ROTATION AND REFERENCE SYSTEMS  SERVICE   (IERS) 
+SERVICE INTERNATIONAL DE LA ROTATION  TERRESTRE ET DES SYSTEMES DE REFERENCE
+
+
+SERVICE DE LA ROTATION TERRESTRE
+OBSERVATOIRE DE PARIS                                   
+61, Av. de l'Observatoire 
+75014 PARIS (France)
+Tel. 33 (0) 1 40 51 23 35  
+http://iers.obspm.fr
+email: services.iers@obspm.fr                      Paris, 16 February 2018
+
+                                                   Bulletin D 137
+
+
+
+
+                               ANNOUNCEMENT OF DUT1
+
+
+        From the
+
+                          15 March 2018, 0h UTC
+
+    until further notice, the value of DUT1 to be disseminated with the 
+    time signals will be
+
+
+                                  DUT1 = +0.1 s
+                                  
+
+        Bulletin D 138 should be issued in July 2018
+         
+         
+      
+    To unsubscribe: http://hpiers.obspm.fr/eop-pc/products/bulletins/bulletin_registration.html      
+        
+ 

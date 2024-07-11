@@ -1,0 +1,64 @@
+
+
+		INTERNATIONAL   EARTH   ROTATION   SERVICE   (IERS) 
+ 		SERVICE   INTERNATIONAL   DE   LA   ROTATION   TERRESTRE
+
+BUREAU CENTRAL DE L'IERS
+OBSERVATOIRE DE PARIS 	                                       Paris, 21 June 1994
+61, Av. de l'Observatoire 75014 PARIS (France)
+Tel. (33) 1-40 51 22 26      Telex : 270776 OBS
+            Internet 	: iers@iap.fr	Bulletin D 46
+       	    Span 	: IAPOBS::IERS
+             FAX  	: (33) 1 - 40 51 22 91
+
+
+                               ANNOUNCEMENT OF DUT1
+
+ From the
+                                 1 July 1994, 0h UTC
+
+through 10 August 1994, the value of DUT1 to be disseminated with the time signals will be
+
+                                DUT1 = + 0.8 s
+
+due to the introduction of a leap second in UTC on 1 July 1994
+
+     We apologize for any inconvenience caused by this late announcement.
+
+From the
+                               11 August 1994, 0h UTC
+
+until further notice, the value of DUT1 to be disseminated with the time signals will be
+
+                                  DUT1 = + 0.7 s
+
+Bulletin D47 will be issued in August 1994
+------------------------------------------------------------------------------------------
+
+                               ANNONCE DE DUT1
+
+	A partir du 
+                             1 juillet 1994, 0h UTC
+
+jusqu'au 10 aout 1994 inclus, la valeur de DUT1 a diffuser avec les signaux horaires sera
+
+
+                           DUT1 = + 0,8 s
+
+a la suite de l'introduction dans UTC d'une seconde intercalaire le 1 juillet 1994.
+
+Nous vous prions d'excuser cette annonce tardive.
+
+A partir du 
+                          11 aout 1994, 0h UTC
+
+jusqu'a nouvel avis, la valeur de DUT1 a diffuser avec les signaux horaires sera
+
+                          DUT1 = + 0,7 s
+
+Le bulletin D47 sera diffuse en aout 1994.
+
+
+
+				        Martine Feissel
+				        Director, IERS Central Bureau

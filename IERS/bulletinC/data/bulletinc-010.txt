@@ -1,0 +1,67 @@
+-----------------------------------------------------------------------------------------------
+                         please ignore the first bulletin C 10
+-----------------------------------------------------------------------------------------------
+         
+
+
+
+         	INTERNATIONAL EARTH ROTATION SERVICE (IERS) 
+  	      SERVICE INTERNATIONAL DE LA ROTATION TERRESTRE
+
+
+
+BUREAU CENTRAL DE L'IERS
+OBSERVATOIRE DE PARIS                                   Paris, 3 July 1995
+61, Av. de l'Observatoire 75014 PARIS (France)
+Tel. (33) 1-40 51 22 26      Telex : 270776 OBS
+  Internet      : services@obspm.fr                     
+  Span          : MESIOA::SERVICES
+  FAX           : (33) 1 - 40 51 22 32
+                                                        Bulletin C 10
+                                
+
+                                                        To authorities responsible for                  
+                                                        the measurement and distribution                
+                                                        of time                                         
+
+
+
+
+
+
+                            UTC TIME STEP
+                      on the 1st of January 1996
+
+
+
+
+ A positive leap second will be introduced at the end of December 1995.
+ The sequence of dates of the UTC second markers will be:
+
+               1995 December 31,     23h 59m 59s
+               1995 December 31,     23h 59m 60s
+               1996 January   1,      0h  0m  0s
+
+
+ The difference between UTC and the International Atomic Time TAI is :		
+		
+   from 1994 July 1, 0h UTC, to 1996 January 1, 0h UTC    : UTC-TAI = - 29 s
+   from 1996 January 1, 0h UTC, until further notice      : UTC-TAI = - 30 s
+
+
+ Leap seconds can be introduced in UTC at the end of the months of December 
+ or June,  depending on the evolution of UT1-TAI. Bulletin C mailed every six 
+ months, either to announce a time step in UTC, or to confirm that there will
+ be no time step at the next possible date.
+
+
+
+
+                                     Martine FEISSEL	
+                                     Director			
+                                     Central Bureau of IERS
+
+
+
+
+

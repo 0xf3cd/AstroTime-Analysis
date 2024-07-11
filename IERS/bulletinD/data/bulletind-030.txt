@@ -1,0 +1,28 @@
+             INTERNATIONAL EARTH ROTATION SERVICE (IERS)
+           SERVICE INTERNATIONAL DE LA ROTATION TERRESTRE
+                                   
+ Bulletin   D  30               Paris le 16 July 1992
+   
+
+                      ANNOUNCEMENT  OF DUT1
+  
+   
+ From the
+                       3 September 1992, 0h UTC
+ 
+ until further notice, the value of DUT1 to be disseminated with the
+ time signals will be
+   
+                       DUT1= + 0.3 s
+ 
+------------------------------------------------------------------------- 
+
+                       ANNONCE DE DUT1
+ 
+ A partir du
+                       3 Septembre 1992, 0h UTC
+ 
+ jusqu'a nouvel avis, la valeur de DUT1 a diffuser avec les signaux
+ horaires sera 
+        
+                        DUT1= + 0.3 s

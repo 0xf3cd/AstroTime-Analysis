@@ -1,0 +1,46 @@
+		INTERNATIONAL   EARTH   ROTATION   SERVICE   (IERS) 
+	SERVICE   INTERNATIONAL   DE   LA   ROTATION   TERRESTRE
+
+
+BUREAU CENTRAL DE L'IERS
+OBSERVATOIRE DE PARIS 	Paris, 12 February 1993
+61, Av. de l'Observatoire 75014 PARIS (France)
+Tel. (33) 1-40 51 22 26      Telex : 270776 OBS
+  Internet 	: iers@iap.fr                     	Bulletin D 37
+  Span 	        : IAPOBS::IERS
+  FAX     	: (33) 1 - 40 51 22 32
+
+
+                          ANNOUNCEMENT OF DUT1
+
+
+
+     From the 1 July 1993, 0h UTC
+
+
+    Until further notice, the value of DUT1 to be disseminated 
+    with the time signals will be
+
+                         DUT1 = + 0.6 s.
+
+    Note the change of sign due to the introduction of a leap second
+    on 1 July 1993 . 
+    Bulletin D 38 will be issued in July 1993.
+
+
+
+
+                          ANNONCE DE DUT1
+
+
+
+    A partir du 1 juillet 1993, 0h UTC
+
+    Jusqu'a nouvel avis, la valeur de DUT1 a diffuser 
+    avec les signaux horaires sera
+									
+                          DUT1 = + 0,6 s
+
+    Noter le changement de signe du a l'introduction d'une seconde 
+    intercalaire le 1 juillet 1993. 
+    Le Bulletin D37 sera diffuse en juillet 1993.

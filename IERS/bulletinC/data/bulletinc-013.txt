@@ -1,0 +1,61 @@
+
+
+         
+         	INTERNATIONAL EARTH ROTATION SERVICE (IERS) 
+  	      SERVICE INTERNATIONAL DE LA ROTATION TERRESTRE
+
+
+
+BUREAU CENTRAL DE L'IERS
+OBSERVATOIRE DE PARIS                                   Paris, 6 January 1997
+61, Av. de l'Observatoire 75014 PARIS (France)
+  Tel.      : 33 (0) 1 40 51 22 26
+  FAX       : 33 (0) 1 40 51 22 91
+  Internet  : iers@obspm.fr
+                                                        Bulletin C 13
+                                
+
+                                                        To authorities responsible for                  
+                                                        the measurement and distribution                
+                                                        of time                                         
+
+
+
+
+
+
+                                    UTC TIME STEP
+                      
+                             on the  1st of  July 1997
+              
+
+
+ A positive leap second will be introduced at the end of June 1997.
+ The sequence of dates of the UTC second markers will be:
+
+		
+                      1997 June       30,    23h 59mn 59s
+                      1997 June       30,    23h 59mn 60s
+                      1997 July        1,     0h  0mn  0s
+
+ The difference between UTC and the International Atomic Time TAI is:
+
+   from 1996 January 1, 0h UTC, until 1997 July 1, 0h UTC: UTC-TAI = - 30s
+   from 1997 July 1, 0h UTC, until further notice        : UTC-TAI = - 31s
+
+ Leap seconds can be introduced in UTC at the end of the months of December 
+ or June, depending on the evolution of UT1-TAI. Bulletin C is mailed every
+ six  months, either to announce a time step in UTC, or to confirm that
+ there  will  be no time step at the next possible date.
+
+
+
+
+                                                 Martine FEISSEL	
+                                                 Director			
+                                                 Central Bureau of IERS
+
+
+
+
+

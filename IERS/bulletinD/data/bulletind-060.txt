@@ -1,0 +1,27 @@
+                  INTERNATIONAL   EARTH   ROTATION   SERVICE   (IERS) 
+                     SERVICE INTERNATIONAL LA ROTATIO  TERRESTRE
+
+
+BUREAU CENTRAL DE L'IERS
+OBSERVATOIRE DE PARIS                                   
+61, Av. de l'Observatoire 75014 PARIS (France)
+Tel. (33) 1-40 51 22 26      Telex : 270776 OBS
+
+Internet 	: services@obspm.fr                             Bulletin D 60
+Span 	        : MESIOA::SERVICES
+FAX  	        : (33) 1 - 40 51 22 91
+
+
+
+
+
+                     ANNOUNCEMENT OF DUT1
+
+
+     From the 11 April 1996, 0h UTC until further notice, 
+the value of DUT1 to be disseminated with the time signals will be
+
+                        DUT1 = + 0.3 s
+
+     Bulletin D 61 will be issued in April 1996.
+

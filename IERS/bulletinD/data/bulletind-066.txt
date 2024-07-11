@@ -1,0 +1,31 @@
+                  INTERNATIONAL   EARTH   ROTATION   SERVICE   (IERS) 
+                     SERVICE INTERNATIONAL LA ROTATION  TERRESTRE
+
+
+BUREAU CENTRAL DE L'IERS
+OBSERVATOIRE DE PARIS                                   
+61, Av. de l'Observatoire 
+75014 PARIS (France)
+Tel. 33 (0) 1 40 51 22 26  
+FAX  33 (0) 1 40 51 22 91
+Internet: iers@obspm.fr                                 Paris, 29 January 1997
+                                                        Bulletin D 66
+
+
+
+
+
+                               ANNOUNCEMENT OF DUT1
+
+
+         From the
+
+                               20 March 1997, 0h UTC
+
+until further notice, the value of DUT1 to be disseminated with the time
+signals will be
+
+                                  DUT1 = - 0.3 s
+
+         Bulletin D 67 should be issued in March 1997.
+
