@@ -1,4 +1,4 @@
-report_dt,dut1,dut1_effective_dt,tai_utc,tai_utc_effective_dt
+report_time,dut1,dut1_effective_dt,tai_utc,tai_utc_effective_dt
 2005-01-06T00:00:00,-0.5,2004-04-29T00:00:00,32.0,1999-01-01T00:00:00
 2005-01-13T00:00:00,-0.5,2004-04-29T00:00:00,32.0,1999-01-01T00:00:00
 2005-01-20T00:00:00,-0.5,2004-04-29T00:00:00,32.0,1999-01-01T00:00:00

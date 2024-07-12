@@ -219,7 +219,16 @@ def extract_rapid_service(text: str):
   def __parse(dl: str) -> RapidService:
     splitted = dl.split()
     assert len(splitted) == 10
-    return RapidService(*splitted[3:])
+
+    mjd = int(splitted[3])
+    x = float(splitted[4])
+    x_err = float(splitted[5])
+    y = float(splitted[6])
+    y_err = float(splitted[7])
+    ut1_utc = float(splitted[8])
+    ut1_utc_err = float(splitted[9])
+
+    return RapidService(mjd, x, x_err, y, y_err, ut1_utc, ut1_utc_err)
 
   data_lines = rapid_service_data_lines(text)
   return map(__parse, data_lines)
@@ -270,7 +279,13 @@ def extract_final_values(text: str):
   def __parse(dl: str) -> FinalValue:
     splitted = dl.split()
     assert len(splitted) == 7
-    return FinalValue(*splitted[3:])
+
+    mjd = int(splitted[3])
+    x = float(splitted[4])
+    y = float(splitted[5])
+    ut1_utc = float(splitted[6])
+
+    return FinalValue(mjd, x, y, ut1_utc)
 
   data_lines = final_values_lines(text)
   return map(__parse, data_lines)
@@ -292,7 +307,7 @@ def save_header_cvs() -> None:
   header_info = sorted(headers, key=lambda h: h.report_time)
 
   # The CVS file has the following columns:
-  # report_dt            - datetime when the bulletin A file is issued
+  # report_time          - datetime when the bulletin A file is issued
   # dut1                 - the dut1 value read from the header
   # dut1_effective_dt    - datetime when the dut1 value becomes effective
   # tai_utc              - the tai_utc value read from the header
@@ -302,7 +317,7 @@ def save_header_cvs() -> None:
   cvs_file = CVS_PATH / 'bulletin_a_header.csv'
 
   with cvs_file.open('w') as f:
-    f.write('report_dt,dut1,dut1_effective_dt,tai_utc,tai_utc_effective_dt\n')
+    f.write('report_time,dut1,dut1_effective_dt,tai_utc,tai_utc_effective_dt\n')
     for h in header_info:
       f.write(f'{h.report_time.isoformat()},{h.dut1},{h.dut1_effective.isoformat()},{h.tai_utc},{h.tai_utc_effective.isoformat()}\n')
 
@@ -316,6 +331,15 @@ def save_rapid_service_cvs() -> None:
   data = map(extract_rapid_service, texts)
   chained_data = chain.from_iterable(data)
   rapid_service = sorted(chained_data, key=lambda d: d.mjd)
+
+  # The CVS file has the following columns:
+  # mjd                  - modified julian date
+  # x                    - the x value, unit: ""
+  # x_err                - the x value error, unit: ""
+  # y                    - the y value read, unit: ""
+  # y_err                - the y value error, unit: ""
+  # ut1_utc              - the ut1_utc value, unit: s
+  # ut1_utc_err          - the ut1_utc value error, unit: s
 
   ensure_cvs_path()
   cvs_file = CVS_PATH / 'bulletin_a_rapid_service.csv'
@@ -346,9 +370,69 @@ def save_final_values_cvs() -> None:
       f.write(f'{d.mjd},{d.x},{d.y},{d.ut1_utc}\n')
 
 
+def read_header_cvs() -> list[Header]:
+  ret: list[Header] = []
+
+  with (CVS_PATH / 'bulletin_a_header.csv').open('r') as f:
+    lines = f.read().strip().splitlines()
+    for l in lines[1:]:
+      report_time, dut1, dut1_effective_dt, tai_utc, tai_utc_effective_dt = l.split(',')
+      ret.append(Header(
+        report_time=datetime.fromisoformat(report_time),
+        dut1=float(dut1),
+        dut1_effective=datetime.fromisoformat(dut1_effective_dt),
+        tai_utc=float(tai_utc),
+        tai_utc_effective=datetime.fromisoformat(tai_utc_effective_dt),
+      ))
+  
+  return sorted(ret, key=lambda h: h.report_time)
+
+
+def read_rapid_service_cvs() -> list[RapidService]:
+  ret: list[RapidService] = []
+
+  with (CVS_PATH / 'bulletin_a_rapid_service.csv').open('r') as f:
+    lines = f.read().strip().splitlines()
+    for l in lines[1:]:
+      mjd, x, x_err, y, y_err, ut1_utc, ut1_utc_err = l.split(',')
+      ret.append(RapidService(
+        mjd=int(mjd),
+        x=float(x),
+        x_err=float(x_err),
+        y=float(y),
+        y_err=float(y_err),
+        ut1_utc=float(ut1_utc),
+        ut1_utc_err=float(ut1_utc_err),
+      ))
+
+  return sorted(ret, key=lambda d: d.mjd)
+
+
+def read_final_value_cvs() -> list[FinalValue]:
+  ret: list[FinalValue] = []
+
+  with (CVS_PATH / 'bulletin_a_final_values.csv').open('r') as f:
+    lines = f.read().strip().splitlines()
+    for l in lines[1:]:
+      mjd, x, y, ut1_utc = l.split(',')
+      ret.append(FinalValue(
+        mjd=int(mjd),
+        x=float(x),
+        y=float(y),
+        ut1_utc=float(ut1_utc),
+      ))
+
+  return sorted(ret, key=lambda d: d.mjd)
+
+
 if __name__ == '__main__':
   assert sanity_checks()
 
   save_header_cvs()
+  read_header_cvs() # For sanity check purpose.
+
   save_rapid_service_cvs()
+  read_rapid_service_cvs() # For sanity check purpose.
+
   save_final_values_cvs()
+  read_final_value_cvs()
