@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Copyright (c) 2024, 0xf3cd <https://github.com/0xf3cd>.
+# Coroutine-based IERS data downloader.
 
 import pprint
 import asyncio
@@ -41,6 +43,7 @@ def download(fm: FileMetadata) -> bool:
 
 
 class AsyncDownloader:
+  '''A asyncio-based downloader. Run `requests.get` in different coroutines/threads thus improving performance.'''
   def __init__(self, files: Sequence[FileMetadata], parallel: int = 8) -> None:
     self._queue = asyncio.Queue()
     for f in files:
