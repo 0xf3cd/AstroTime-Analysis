@@ -35,6 +35,8 @@ def sanity_check(text: str) -> bool:
   if ('TAI-UTC = ' not in text) and \
      ('TAI-UTC(BIPM) = ' not in text):
     return False
+  if 'TT = TAI + 32.184 seconds' not in text:
+    return False
   return True
 
 
