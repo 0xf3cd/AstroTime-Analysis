@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Copyright (c) 2024, 0xf3cd <https://github.com/0xf3cd>.
+# Copyright (c) 2024, 0xf3cd <https://github.com/0xf3cd>
 # Coroutine-based IERS data downloader.
 
 import pprint

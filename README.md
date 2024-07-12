@@ -9,3 +9,4 @@ Modeling and analysis on astronomical time scales
 ## References
 - https://www.iers.org/IERS/EN/Publications/Bulletins/bulletins.html
 - https://webspace.science.uu.nl/~gent0113/deltat/deltat_modern.htm
+- https://maia.usno.navy.mil/products/daily.htm
