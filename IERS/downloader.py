@@ -23,7 +23,7 @@ def download(fm: FileMetadata) -> bool:
 
   try:
     if not fm.path.parent.exists():
-      fm.path.parent.mkdir(parents=True, exist_ok=True)
+      fm.path.parent.mkdir(parents=True)
 
     with requests.get(fm.url, stream=True) as r:
       r.raise_for_status()
