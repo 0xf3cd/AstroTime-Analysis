@@ -113,7 +113,7 @@ BULLETIN_A_FILE_METADATA = {
   2021: ('xxxiv',    52),
   2022: ('xxxv',     52),
   2023: ('xxxvi',    52),
-  2024: ('xxxvii',   28), # As of 2024-Jul-11 PST, only 28 files are available for 2024.
+  2024: ('xxxvii',   33), # As of 2024-Aug-15 PST, 33 files are available for 2024.
 }
 
 def bulletin_a_files() -> list[FileMetadata]:
@@ -133,7 +133,7 @@ def bulletin_a_undownloaded_files() -> list[FileMetadata]:
 #region Bulletin B
 
 BULLETIN_B_FIRST_FILE_NUMBER = 253
-BULLETIN_B_LAST_FILE_NUMBER  = 437
+BULLETIN_B_LAST_FILE_NUMBER  = 438
 
 def bulletin_b_files() -> list[FileMetadata]:
   ret = []
@@ -169,7 +169,7 @@ def bulletin_c_undownloaded_files() -> list[FileMetadata]:
 #region Bulletin D
 
 BULLETIN_D_FIRST_FILE_NUMBER = 21
-BULLETIN_D_LAST_FILE_NUMBER  = 142
+BULLETIN_D_LAST_FILE_NUMBER  = 143
 
 def bulletin_d_files() -> list[FileMetadata]:
   ret = []
