@@ -115,7 +115,7 @@ BULLETIN_A_FILE_METADATA = {
   2023: ('xxxvi',    52),
   2024: ('xxxvii',   52),
   2025: ('xxxviii',  52),
-  2026: ('xxxix',    30), # As of 2026-Jul-26 PST, 30 files are available for 2026.
+  2026: ('xxxix',    45), # Through Bulletin A Vol. XXXIX No. 045 (5 November 2026).
 }
 
 def bulletin_a_files() -> list[FileMetadata]:
