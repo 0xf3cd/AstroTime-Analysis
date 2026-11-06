@@ -1,0 +1,27 @@
+{
+  "python": "3.14.9",
+  "implementation": "CPython",
+  "numpy": "2.4.2",
+  "system": "Linux",
+  "architecture": "x86_64",
+  "timezone": [
+    "UTC",
+    "UTC"
+  ],
+  "blas": {
+    "name": "scipy-openblas",
+    "version": "0.3.31.dev",
+    "openblas configuration": "OpenBLAS 0.3.31.dev  USE64BITINT DYNAMIC_ARCH NO_AFFINITY Haswell MAX_THREADS=64"
+  },
+  "thread_environment": {
+    "OPENBLAS_NUM_THREADS": "1",
+    "OMP_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1"
+  },
+  "input_commit": "e7823a0d323088c56e803f80540e53df589d732e",
+  "invocation": "TZ=UTC LC_ALL=C PYTHONDONTWRITEBYTECODE=1 OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 MKL_NUM_THREADS=1 python DeltaT/algo5.py",
+  "locale": "C",
+  "repeat_stdout_byte_identical": true,
+  "generation_started_utc": "2026-11-06T20:54:59.652512+00:00",
+  "generation_finished_utc": "2026-11-06T20:55:00.102563+00:00"
+}

@@ -1,0 +1,193 @@
+{
+  "at": "2026-11-06T20:54:42.772586+00:00",
+  "requested": [
+    "IERS/bulletinA/2026/bulletina-xxxix-031.txt",
+    "IERS/bulletinA/2026/bulletina-xxxix-032.txt",
+    "IERS/bulletinA/2026/bulletina-xxxix-033.txt",
+    "IERS/bulletinA/2026/bulletina-xxxix-034.txt",
+    "IERS/bulletinA/2026/bulletina-xxxix-035.txt",
+    "IERS/bulletinA/2026/bulletina-xxxix-036.txt",
+    "IERS/bulletinA/2026/bulletina-xxxix-037.txt",
+    "IERS/bulletinA/2026/bulletina-xxxix-038.txt",
+    "IERS/bulletinA/2026/bulletina-xxxix-039.txt",
+    "IERS/bulletinA/2026/bulletina-xxxix-040.txt",
+    "IERS/bulletinA/2026/bulletina-xxxix-041.txt",
+    "IERS/bulletinA/2026/bulletina-xxxix-042.txt",
+    "IERS/bulletinA/2026/bulletina-xxxix-043.txt",
+    "IERS/bulletinA/2026/bulletina-xxxix-044.txt",
+    "IERS/bulletinA/2026/bulletina-xxxix-045.txt"
+  ],
+  "failed": [],
+  "inherited_unrequested_absences": [
+    "IERS/bulletinA/2005/bulletina-xviii-005.txt"
+  ],
+  "responses": [
+    {
+      "requested_url": "https://datacenter.iers.org/data/6/bulletina-xxxix-034.txt",
+      "url": "https://datacenter.iers.org/data/6/bulletina-xxxix-034.txt",
+      "status": 200,
+      "last_modified": "Thu, 20 Aug 2026 18:09:20 GMT",
+      "content_type": "text/plain; charset=UTF-8"
+    },
+    {
+      "requested_url": "https://datacenter.iers.org/data/6/bulletina-xxxix-032.txt",
+      "url": "https://datacenter.iers.org/data/6/bulletina-xxxix-032.txt",
+      "status": 200,
+      "last_modified": "Thu, 06 Aug 2026 18:10:21 GMT",
+      "content_type": "text/plain; charset=UTF-8"
+    },
+    {
+      "requested_url": "https://datacenter.iers.org/data/6/bulletina-xxxix-033.txt",
+      "url": "https://datacenter.iers.org/data/6/bulletina-xxxix-033.txt",
+      "status": 200,
+      "last_modified": "Thu, 13 Aug 2026 17:57:59 GMT",
+      "content_type": "text/plain; charset=UTF-8"
+    },
+    {
+      "requested_url": "https://datacenter.iers.org/data/6/bulletina-xxxix-031.txt",
+      "url": "https://datacenter.iers.org/data/6/bulletina-xxxix-031.txt",
+      "status": 200,
+      "last_modified": "Thu, 30 Jul 2026 17:43:15 GMT",
+      "content_type": "text/plain; charset=UTF-8"
+    },
+    {
+      "requested_url": "https://datacenter.iers.org/data/6/bulletina-xxxix-037.txt",
+      "url": "https://datacenter.iers.org/data/6/bulletina-xxxix-037.txt",
+      "status": 200,
+      "last_modified": "Thu, 10 Sep 2026 17:49:34 GMT",
+      "content_type": "text/plain; charset=UTF-8"
+    },
+    {
+      "requested_url": "https://datacenter.iers.org/data/6/bulletina-xxxix-038.txt",
+      "url": "https://datacenter.iers.org/data/6/bulletina-xxxix-038.txt",
+      "status": 200,
+      "last_modified": "Thu, 17 Sep 2026 17:53:48 GMT",
+      "content_type": "text/plain; charset=UTF-8"
+    },
+    {
+      "requested_url": "https://datacenter.iers.org/data/6/bulletina-xxxix-036.txt",
+      "url": "https://datacenter.iers.org/data/6/bulletina-xxxix-036.txt",
+      "status": 200,
+      "last_modified": "Thu, 03 Sep 2026 17:46:08 GMT",
+      "content_type": "text/plain; charset=UTF-8"
+    },
+    {
+      "requested_url": "https://datacenter.iers.org/data/6/bulletina-xxxix-035.txt",
+      "url": "https://datacenter.iers.org/data/6/bulletina-xxxix-035.txt",
+      "status": 200,
+      "last_modified": "Thu, 27 Aug 2026 17:29:27 GMT",
+      "content_type": "text/plain; charset=UTF-8"
+    },
+    {
+      "requested_url": "https://datacenter.iers.org/data/6/bulletina-xxxix-039.txt",
+      "url": "https://datacenter.iers.org/data/6/bulletina-xxxix-039.txt",
+      "status": 200,
+      "last_modified": "Thu, 24 Sep 2026 17:37:52 GMT",
+      "content_type": "text/plain; charset=UTF-8"
+    },
+    {
+      "requested_url": "https://datacenter.iers.org/data/6/bulletina-xxxix-040.txt",
+      "url": "https://datacenter.iers.org/data/6/bulletina-xxxix-040.txt",
+      "status": 200,
+      "last_modified": "Thu, 01 Oct 2026 18:08:20 GMT",
+      "content_type": "text/plain; charset=UTF-8"
+    },
+    {
+      "requested_url": "https://datacenter.iers.org/data/6/bulletina-xxxix-041.txt",
+      "url": "https://datacenter.iers.org/data/6/bulletina-xxxix-041.txt",
+      "status": 200,
+      "last_modified": "Thu, 08 Oct 2026 18:10:10 GMT",
+      "content_type": "text/plain; charset=UTF-8"
+    },
+    {
+      "requested_url": "https://datacenter.iers.org/data/6/bulletina-xxxix-042.txt",
+      "url": "https://datacenter.iers.org/data/6/bulletina-xxxix-042.txt",
+      "status": 200,
+      "last_modified": "Thu, 15 Oct 2026 19:52:05 GMT",
+      "content_type": "text/plain; charset=UTF-8"
+    },
+    {
+      "requested_url": "https://datacenter.iers.org/data/6/bulletina-xxxix-043.txt",
+      "url": "https://datacenter.iers.org/data/6/bulletina-xxxix-043.txt",
+      "status": 200,
+      "last_modified": "Thu, 22 Oct 2026 17:36:56 GMT",
+      "content_type": "text/plain; charset=UTF-8"
+    },
+    {
+      "requested_url": "https://datacenter.iers.org/data/6/bulletina-xxxix-044.txt",
+      "url": "https://datacenter.iers.org/data/6/bulletina-xxxix-044.txt",
+      "status": 200,
+      "last_modified": "Thu, 29 Oct 2026 17:33:11 GMT",
+      "content_type": "text/plain; charset=UTF-8"
+    },
+    {
+      "requested_url": "https://datacenter.iers.org/data/6/bulletina-xxxix-045.txt",
+      "url": "https://datacenter.iers.org/data/6/bulletina-xxxix-045.txt",
+      "status": 200,
+      "last_modified": "Thu, 05 Nov 2026 17:20:54 GMT",
+      "content_type": "text/plain; charset=UTF-8"
+    }
+  ],
+  "files": {
+    "IERS/bulletinA/2026/bulletina-xxxix-031.txt": {
+      "bytes": 34264,
+      "sha256": "d5915dd3f5e9b82fbbaab0b77021374425b2e2fc0b908c7bbbb0b6a62a379aea"
+    },
+    "IERS/bulletinA/2026/bulletina-xxxix-032.txt": {
+      "bytes": 41677,
+      "sha256": "57b4617bd07b75b7507b902c3c37acb3b6b94254d38153bfdb87caae9de13640"
+    },
+    "IERS/bulletinA/2026/bulletina-xxxix-033.txt": {
+      "bytes": 34669,
+      "sha256": "092be8ab267d805a2dd8e2c3f92bc550b9504b3a9bb26f7632ec8c8ac33935b1"
+    },
+    "IERS/bulletinA/2026/bulletina-xxxix-034.txt": {
+      "bytes": 33080,
+      "sha256": "5d278de95ec16d91bb200f8a00f7f61c62ba0fe1b8424dfba82204ed807d3400"
+    },
+    "IERS/bulletinA/2026/bulletina-xxxix-035.txt": {
+      "bytes": 35074,
+      "sha256": "a992584c105f8d63f4d70195ae03fe7ba00a7a674d4bdc69de2bdb12177c1be2"
+    },
+    "IERS/bulletinA/2026/bulletina-xxxix-036.txt": {
+      "bytes": 41473,
+      "sha256": "3378b1fd1dd8edfeee8e88f0cba6357bba42f5811b18da16825161cf88cb95c5"
+    },
+    "IERS/bulletinA/2026/bulletina-xxxix-037.txt": {
+      "bytes": 34669,
+      "sha256": "11aa0fbd2a603451c6b13870877854cb50602a7b4dc0da55bf6ac0896e7b893d"
+    },
+    "IERS/bulletinA/2026/bulletina-xxxix-038.txt": {
+      "bytes": 33080,
+      "sha256": "6a23623f37af07c577f79c2dd6587d05dbb7593e9abd0c3ec028df3daba8398b"
+    },
+    "IERS/bulletinA/2026/bulletina-xxxix-039.txt": {
+      "bytes": 35614,
+      "sha256": "2ba7392d1f52fd664396d3595d4ec6b33124f866a43faa3dd122e2cd03499584"
+    },
+    "IERS/bulletinA/2026/bulletina-xxxix-040.txt": {
+      "bytes": 40289,
+      "sha256": "438639132215969f2cc76e13be10b102119427a36bccc54bcdb55c8021b38b10"
+    },
+    "IERS/bulletinA/2026/bulletina-xxxix-041.txt": {
+      "bytes": 35614,
+      "sha256": "16c7fa684cc4d16c6c137745f9218117c1884485eb821f44a0e11e2054a325e6"
+    },
+    "IERS/bulletinA/2026/bulletina-xxxix-042.txt": {
+      "bytes": 35981,
+      "sha256": "1b2f3e789a9700d05936937675410d72419a011a4e22dc4a065f8570af90a456"
+    },
+    "IERS/bulletinA/2026/bulletina-xxxix-043.txt": {
+      "bytes": 36925,
+      "sha256": "9e3aaa92c8540404ddb7bedb4b62c8cc968b4cecda958b227080eae535f675e9"
+    },
+    "IERS/bulletinA/2026/bulletina-xxxix-044.txt": {
+      "bytes": 35361,
+      "sha256": "9ed26f88b671315b8ce7797424b3170552e80f8a1b8f2ea224efe4d4a3747f28"
+    },
+    "IERS/bulletinA/2026/bulletina-xxxix-045.txt": {
+      "bytes": 43449,
+      "sha256": "b103f1eb72c537062cf870d4d46e776923c561f4f202773548c66fd1631d0925"
+    }
+  }
+}

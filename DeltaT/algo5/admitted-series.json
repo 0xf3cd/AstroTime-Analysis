@@ -1,0 +1,16 @@
+{
+  "rows": 7970,
+  "unique_dates": 7970,
+  "mjd_range": [
+    53315,
+    61314
+  ],
+  "inherited_gap": [
+    53345,
+    53374
+  ],
+  "new_date_count": 122,
+  "new_interval_daily_continuous": true,
+  "conflicting_duplicate_dates": false,
+  "prediction_or_rapid_rows_admitted": false
+}
