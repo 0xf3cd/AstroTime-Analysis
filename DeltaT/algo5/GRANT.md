@@ -8,8 +8,8 @@ material under the licence governing project-authored material in that repositor
 
 - the eight observed-segment coefficients and the basis `u = year - 1990` recorded in
   [`record.json`](record.json);
-- `LAST_OBSERVATION_YEAR = 2026.4135844748857`;
-- the fitted integration constant `C = -150.64706473230285` that aligns the long-term branch at the
+- `LAST_OBSERVATION_YEAR = 2026.7479452054795`;
+- the fitted integration constant `C = -150.635787765945` that aligns the long-term branch at the
   last-observation boundary; and
 - the project-authored metadata in this directory that describes those outputs.
 
